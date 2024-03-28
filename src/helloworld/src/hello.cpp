@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
     ros::NodeHandle n;
     //控制台输出 hello world
     ROS_INFO("hello world!");
-
+    //使用vscode在c++文件中添加注释
     return 0;
 }
 
