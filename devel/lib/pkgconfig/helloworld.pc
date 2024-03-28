@@ -1,0 +1,8 @@
+prefix=/home/wyane/git_test_ubuntu/devel
+
+Name: helloworld
+Description: Description of helloworld
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
